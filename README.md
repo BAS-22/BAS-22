@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @BAS-22
-- 👀 I’m interested in Machine Learning
+- 👋 Hi, I’m Bilal
+- 👀 I’m interested in Data Science|Machine Learning|Mathematics
 
 
 <!---
