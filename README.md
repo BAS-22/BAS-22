@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Bilal
-- 👀 I’m interested in Data Science|Machine Learning|Mathematics
+PhD Researcher in Machine Learning
 
 
 <!---
